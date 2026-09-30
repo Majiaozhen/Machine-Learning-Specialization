@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地工作记录（不上传）
+_md_fix_backup/
+中文版_Notebook代码显示修复报告.md
